@@ -16,3 +16,6 @@
 !/log/.keep
 /tmp
 nbproject
+public/javascripts/jspm_packages
+
+node_modules
